@@ -1,0 +1,22 @@
+{
+  "name": "node-mailer-example",
+  "version": "1.0.0",
+  "description": "taking nodemailer out for a spin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlieGreenman/node-mailer-example.git"
+  },
+  "author": "Charlie Greenman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CharlieGreenman/node-mailer-example/issues"
+  },
+  "homepage": "https://github.com/CharlieGreenman/node-mailer-example#readme",
+  "devDependencies": {
+    "nodemailer": "^1.8.0"
+  }
+}
